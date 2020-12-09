@@ -38,3 +38,6 @@ This text is accociated with this sub section.
 
 ### Double Sub Section
 Hello there from sub-sub-section.
+
+# License
+Some license name goes here.
